@@ -1,2 +1,2 @@
 Testing Testing
-"Testing my post-commit hook"
+"Testing post-commit hook"
